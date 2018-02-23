@@ -1,5 +1,9 @@
 # Get news in your website via rss
 
+## Example
+
+http://news.dcastrili.com/netmk
+
 ## Usage
 
 Adding a single rss
