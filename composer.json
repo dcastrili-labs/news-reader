@@ -1,0 +1,25 @@
+{
+    "name": "dcastrili-labs/news-reader",
+    "description": "",
+    "authors": [
+        {
+            "name": "David Castillo",
+            "email": "dcastrili@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "NewsReader\\Providers\\NewsReaderServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "NewsReader\\": "src/"
+        }
+    }
+}
